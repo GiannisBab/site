@@ -6,5 +6,5 @@ caption: Τα λειτουργικά συστήματα (Operating Systems, OS) 
 slides:
   - classic_macos.png
   - NeXTSTEP_desktop.png
-  - linux_os_desktop.png
+  - linux_os.png
 ---
